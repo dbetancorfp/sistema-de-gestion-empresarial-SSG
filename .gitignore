@@ -1,0 +1,15 @@
+# Zensical / build
+site/
+.cache/
+.zensical/
+__pycache__/
+
+# Entorno y secretos
+.env
+*.env
+.env.*
+
+# SO / editor
+.DS_Store
+Thumbs.db
+*.swp
