@@ -14,6 +14,7 @@ nav = [
   { "Inicio" = "index.md" },
   { "UT1 · Identificación de sistemas ERP-CRM-BI" = "ut01.md" },
   { "UT2 · Instalación y configuración de sistemas ERP-CRM" = "ut02.md" },
+  { "Bibliografía y fuentes" = "bibliografia.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
