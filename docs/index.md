@@ -16,10 +16,10 @@ programación didáctica.
 
 1. [Identificación de sistemas ERP-CRM-BI](ut01.md)
 2. [Instalación y configuración de sistemas ERP-CRM](ut02.md)
-3. Realización de operaciones de gestión *(pendiente)*
-4. Consulta de la información e Implantación de sistemas ERP-CRM en una empresa *(pendiente)*
-5. Desarrollo de componentes para un sistema ERP-CRM *(pendiente)*
-6. Utilización de herramientas para la creación y mantenimientos de una tienda online *(pendiente)*
+3. [Realización de operaciones de gestión](ut03.md)
+4. [Consulta de la información e Implantación de sistemas ERP-CRM en una empresa](ut04.md)
+5. [Desarrollo de componentes para un sistema ERP-CRM](ut05.md)
+6. [Utilización de herramientas para la creación y mantenimientos de una tienda online](ut06.md)
 
 ## Otras páginas
 
