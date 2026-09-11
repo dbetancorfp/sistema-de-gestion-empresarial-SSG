@@ -1,14 +1,10 @@
 [project]
 site_url = "https://dbetancorfp.github.io/sistema-de-gestion-empresarial-SSG/"
-site_name = "Sistemas de Gestión Empresarial (SSG) · 2º DAM"
+site_name = "Sistemas de Gestión Empresarial (SSG)"
 site_description = "Libro de resúmenes por unidad del módulo SSG (ERP-CRM-BI), 2º DAM."
 # site_author = "Your name"
 
 # copyright = "Copyright &copy; 2026 Your name"
-
-repo_url = "https://github.com/dbetancorfp/sistema-de-gestion-empresarial-SSG"
-repo_name = "dbetancorfp/sistema-de-gestion-empresarial-SSG"
-edit_uri = "edit/main/docs/"
 
 nav = [
   { "Inicio" = "index.md" },
