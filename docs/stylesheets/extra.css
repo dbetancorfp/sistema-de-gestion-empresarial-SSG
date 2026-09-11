@@ -3,3 +3,9 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Sin enlace al repositorio, el hueco reservado para él empujaba el buscador
+   y el selector de tema hacia el centro en vez de dejarlos al extremo derecho. */
+.md-header__source {
+  display: none !important;
+}
