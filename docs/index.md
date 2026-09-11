@@ -2,7 +2,7 @@
 icon: lucide/book-open
 ---
 
-# Sistemas de Gestión Empresarial (SSG) · 2º DAM
+# Sistemas de Gestión Empresarial (SSG)
 
 Libro de resúmenes de estudio del módulo **Sistemas de Gestión Empresarial**
 (ERP · CRM · BI) del segundo curso del CFGS **Desarrollo de Aplicaciones
