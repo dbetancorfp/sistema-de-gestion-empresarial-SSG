@@ -9,8 +9,8 @@ Libro de resúmenes de estudio del módulo **Sistemas de Gestión Empresarial**
 Multiplataforma**.
 
 Cada unidad recoge un resumen extenso y didáctico elaborado a partir del material
-de teoría del módulo (`01 - TEORIA`), estructurado según los contenidos de la
-programación didáctica.
+de teoría del módulo (`01 - TEORIA`), estructurado según los contenidos propios de
+cada unidad.
 
 ## Unidades
 
